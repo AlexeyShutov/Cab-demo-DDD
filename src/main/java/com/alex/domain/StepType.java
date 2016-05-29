@@ -1,5 +1,7 @@
 package com.alex.domain;
 
+import com.alex.service.Input;
+
 /**
  * Created by Alexey on 11.02.2016.
  */

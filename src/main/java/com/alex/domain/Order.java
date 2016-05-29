@@ -14,7 +14,7 @@ public class Order {
     }
 
     // Accept order details and calculate Bill for payment
-    protected Order(OrderDetails orderDetails) {
+    public Order(OrderDetails orderDetails) {
         this.orderDetails = orderDetails;
         this.bill = calculateBill(this.orderDetails);
     }

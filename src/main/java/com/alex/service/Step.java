@@ -1,4 +1,9 @@
-package com.alex.domain;
+package com.alex.service;
+
+import com.alex.dao.TaxiBase;
+import com.alex.domain.Order;
+import com.alex.domain.OrderDetails;
+import com.alex.domain.StepType;
 
 import java.util.Random;
 

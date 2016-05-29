@@ -1,5 +1,7 @@
 package com.alex.domain;
 
+import com.alex.service.Output;
+import com.alex.service.Step;
 import org.junit.Assert;
 import org.junit.Test;
 

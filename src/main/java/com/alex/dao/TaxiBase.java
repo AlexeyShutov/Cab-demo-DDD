@@ -1,4 +1,4 @@
-package com.alex.domain;
+package com.alex.dao;
 
 import java.util.Random;
 

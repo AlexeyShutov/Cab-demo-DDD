@@ -1,4 +1,6 @@
-package com.alex.domain;
+package com.alex.service;
+
+import com.alex.domain.OrderDetails;
 
 import java.util.ArrayList;
 import java.util.List;
